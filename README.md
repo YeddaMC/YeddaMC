@@ -1,9 +1,9 @@
-👋 Hello! Welcome to my Github profile.
+  👋 Hello! Welcome to my Github profile.
 -  My name is Yedda and my nickname is "YeddaMC"!
-- 👀 I’m interested in programação. 
-- 🌱 I’m currently learning Gestão da Tecnologia da Informação no IFPR.
+- 👀 I’m interested in programming. 
+- 🌱 I’m currently learning Information Technology Management at IFPR.
 - 📫 How to reach me linkedin.com/in/yeddamc
-- 😄 Pronouns: she / dela
+- 😄 Pronouns: she / her
 - ⚡ Fun fact: In career transition. Lifelong Learning.♥
 
 <!---
