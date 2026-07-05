@@ -1,6 +1,6 @@
   👋 Hello! Welcome to my Github profile.
 -  My name is Yedda and my nickname is "YeddaMC"!
-- 👀 I’m interested in programming. 
+- 👀  *Tech enthusiast focused on Software Engineering, encompassing everything from code development and innovation to agile methodologies, strategic project management, and the software development lifecycle.**
 - 🌱 I’m currently learning Information Technology Management at IFPR.
 - 📫 How to reach me linkedin.com/in/yeddamc
 - 😄 Pronouns: she / her
