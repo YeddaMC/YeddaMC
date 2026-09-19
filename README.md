@@ -11,7 +11,7 @@
 
 
 - 🌱 I’m currently learning Information Technology Management at IFPR.
-- 📫 How to reach me 🔗[linkedin](    linkedin.com/in/yeddamc)
+- 📫 How to reach me linkedin.com/in/yeddamc
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: In career transition. Lifelong Learning.♥
 - ## 🚀 Featured Project - 🔗 [View project on GitHub](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5)
