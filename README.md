@@ -7,13 +7,12 @@
   👋 Hello! Welcome to my Github profile.
 -  My name is Yedda and my nickname is "YeddaMC"!
 - 👀 *Tech enthusiast interested in development, innovation, agile methodologies, project management, and the software lifecycle.*
-
-
-
 - 🌱 I’m currently learning Information Technology Management at IFPR.
 - 📫 How to reach me linkedin.com/in/yeddamc
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: In career transition. Lifelong Learning.♥
+-  📌 [VI SciTec — PORTFÓLIO 4.0](https://github.com/YeddaMC/VI_SciTec-PORTFOLIO_4.0-INTRODUCAO_A_ORGANIZACAO_DE_PROJETOS_E_VISIBILIDADE_COM_GITHUB) — *Introdução à Organização de Projetos e Visibilidade com GitHub (Oficina Prática - SciTec).*
+
 - ## 🚀 Featured Project - 🔗 [View project on GitHub](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5)
 ### ACHOU! — Plataforma de Economia de Proximidade
 **[ACHOU! — Plataforma de Economia de Proximidade](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5)**
