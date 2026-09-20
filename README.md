@@ -4,10 +4,10 @@
 > 
 >  **Paulo Freire**
   
-  👋 Hello! Welcome to my Github profile.
+- 👋 Hello! Welcome to my Github profile.
 -  My name is Yedda and my nickname is "YeddaMC"!
 - 👀 *Tech enthusiast interested in development, innovation, agile methodologies, project management, and the software lifecycle.*
-- 🌱 I’m currently learning Information Technology Management at IFPR.
+- 🌱 I’m currently learning IT Management  at the Federal Institute of Paraná, Pinhais Campus.
 - 📫 How to reach me linkedin.com/in/yeddamc
 - 😄 Pronouns: she / her
 - ⚡ Fun fact: In career transition. Lifelong Learning.♥
