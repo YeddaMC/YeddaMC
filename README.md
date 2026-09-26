@@ -18,7 +18,7 @@
 
 ### 🔗 [Projeto Interdisciplinar GTI](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5)
 ## ACHOU! — Plataforma de Economia de Proximidade
-**[ACHOU! — Plataforma de Economia de Proximidade](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5)**
+**[ACHOU! — Plataforma de Economia de Proximidade](https://achou--web.pages.dev/)**
 
 A georeferenced cross-platform digital platform (mobile and web), developed as an interdisciplinary project, aimed at increasing the visibility of local microentrepreneurs and facilitating their connection with consumers.
 
